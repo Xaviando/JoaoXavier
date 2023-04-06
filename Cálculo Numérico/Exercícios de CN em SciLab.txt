@@ -1,1 +1,0 @@
-Irei utilizar esse repositório para resolver alguns exercícios de métodos matemáticos, utilizados em Cálculo Numérico, através do uso do SciLab.
