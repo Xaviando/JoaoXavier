@@ -1,0 +1,24 @@
+Exercício 02.
+
+Escrever um programa no SciLab que lê um número decimal e imprime o valor correspondente em base binária.
+
+Exemplo de saída
+
+Decimal: 23.265
+Binário: 10111.101
+
+Decimal: 458
+Binário: 111001010
+
+Decimal: 0.125
+Binário: 0.001
+
+Exercício 04.
+
+Um número inteiro sem sinal nunca pode ser negativo, e pode assumir somente o valor 0 ou valores positivos, ou seja, [0, +∞]. Para utilizar a memória do computador de forma mais eficiente, números inteiros (com ou sem sinal) são armazenados na memória utilizando a representação em ponto fixo. Para recuperar um número inteiro sem sinal, o dispositivo de saída recupera uma cadeia de bits da memória como  um padrão binário e o converte para um número inteiro decimal sem sinal, usando o procedimento do exercício anterior.
+
+a) Represente o resultado da soma 186 + 72 em uma localização de memória de um computador hipotético de 16 bits utilizando a representação sem sinal. Qual a saída apresentada ao usuário quando o dispositivo de saída recupera a cadeia de bits?
+
+b) Represente o resultado da soma 59 +197 em localização de memória de um computador hipotético de 8 bits utilizando a representação sem sinal. Qual a saída apresentada ao usuário quando o dispositivo de saída recupera a cadeia de bits?
+
+
